@@ -6,7 +6,7 @@
     "name": "All For One",
     "classe": "Technical",
     "style": "Original",
-    "image": "https://ultrarumble.com/assets/Character/Ch016/GUI/FaceIcon/T_ui_com_cahraface_Ch016.png",
+    "char_key": "Ch016",
     "color": [
       39,
       47,
@@ -20,7 +20,7 @@
     "name": "All Might",
     "classe": "Assault",
     "style": "Original",
-    "image": "https://ultrarumble.com/assets/Character/Ch012/GUI/FaceIcon/T_ui_com_cahraface_Ch012.png",
+    "char_key": "Ch012",
     "color": [
       164,
       134,
@@ -34,7 +34,7 @@
     "name": "All Might",
     "classe": "Rapid",
     "style": "Gatling",
-    "image": "https://ultrarumble.com/assets/Character/Ch012/GUI/FaceIcon/T_ui_com_cahraface_Ch012.png",
+    "char_key": "Ch012",
     "color": [
       164,
       134,
@@ -48,7 +48,7 @@
     "name": "Armored All Might",
     "classe": "Technical",
     "style": "Original",
-    "image": "https://ultrarumble.com/assets/Character/Ch200/GUI/FaceIcon/T_ui_com_cahraface_Ch200.png",
+    "char_key": "Ch200",
     "color": [
       87,
       85,
@@ -62,7 +62,7 @@
     "name": "Katsuki Bakugo",
     "classe": "Rapid",
     "style": "Machine Gun",
-    "image": "https://ultrarumble.com/assets/Character/Ch002/GUI/FaceIcon/T_ui_com_cahraface_Ch002.png",
+    "char_key": "Ch002",
     "color": [
       208,
       193,
@@ -76,7 +76,7 @@
     "name": "Katsuki Bakugo",
     "classe": "Strike",
     "style": "Original",
-    "image": "https://ultrarumble.com/assets/Character/Ch002/GUI/FaceIcon/T_ui_com_cahraface_Ch002.png",
+    "char_key": "Ch002",
     "color": [
       208,
       193,
@@ -90,7 +90,7 @@
     "name": "Cementoss",
     "classe": "Support",
     "style": "Original",
-    "image": "https://ultrarumble.com/assets/Character/Ch101/GUI/FaceIcon/T_ui_com_cahraface_Ch101.png",
+    "char_key": "Ch101",
     "color": [
       181,
       181,
@@ -104,7 +104,7 @@
     "name": "Mr. Compress",
     "classe": "Support",
     "style": "Original",
-    "image": "https://ultrarumble.com/assets/Character/Ch038/GUI/FaceIcon/T_ui_com_cahraface_Ch038.png",
+    "char_key": "Ch038",
     "color": [
       146,
       128,
@@ -118,7 +118,7 @@
     "name": "Dabi",
     "classe": "Strike",
     "style": "Crazy Torch",
-    "image": "https://ultrarumble.com/assets/Character/Ch017/GUI/FaceIcon/T_ui_com_cahraface_Ch017.png",
+    "char_key": "Ch017",
     "color": [
       220,
       70,
@@ -132,7 +132,7 @@
     "name": "Dabi",
     "classe": "Technical",
     "style": "Original",
-    "image": "https://ultrarumble.com/assets/Character/Ch017/GUI/FaceIcon/T_ui_com_cahraface_Ch017.png",
+    "char_key": "Ch017",
     "color": [
       150,
       70,
@@ -146,7 +146,7 @@
     "name": "Izuku Midoriya OFA",
     "classe": "Rapid",
     "style": "Original",
-    "image": "https://ultrarumble.com/assets/Character/Ch202/GUI/FaceIcon/T_ui_com_cahraface_Ch202.png",
+    "char_key": "Ch202",
     "color": [
       96,
       91,
@@ -160,7 +160,7 @@
     "name": "Izuku Midoriya",
     "classe": "Assault",
     "style": "Original",
-    "image": "https://ultrarumble.com/assets/Character/Ch001/GUI/FaceIcon/T_ui_com_cahraface_Ch001.png",
+    "char_key": "Ch001",
     "color": [
       120,
       115,
@@ -174,7 +174,7 @@
     "name": "Izuku Midoriya",
     "classe": "Strike",
     "style": "Full Bullet",
-    "image": "https://ultrarumble.com/assets/Character/Ch001/GUI/FaceIcon/T_ui_com_cahraface_Ch001.png",
+    "char_key": "Ch001",
     "color": [
       120,
       115,
@@ -188,7 +188,7 @@
     "name": "Endeavor",
     "classe": "Assault",
     "style": "Inferno Fist",
-    "image": "https://ultrarumble.com/assets/Character/Ch023/GUI/FaceIcon/T_ui_com_cahraface_Ch023.png",
+    "char_key": "Ch023",
     "color": [
       228,
       135,
@@ -202,7 +202,7 @@
     "name": "Endeavor",
     "classe": "Strike",
     "style": "Original",
-    "image": "https://ultrarumble.com/assets/Character/Ch023/GUI/FaceIcon/T_ui_com_cahraface_Ch023.png",
+    "char_key": "Ch023",
     "color": [
       228,
       135,
@@ -216,7 +216,7 @@
     "name": "Hawks",
     "classe": "Rapid",
     "style": "Original",
-    "image": "https://ultrarumble.com/assets/Character/Ch043/GUI/FaceIcon/T_ui_com_cahraface_Ch043.png",
+    "char_key": "Ch043",
     "color": [
       202,
       172,
@@ -230,7 +230,7 @@
     "name": "Hawks",
     "classe": "Strike",
     "style": "Slicing Wind",
-    "image": "https://ultrarumble.com/assets/Character/Ch043/GUI/FaceIcon/T_ui_com_cahraface_Ch043.png",
+    "char_key": "Ch043",
     "color": [
       202,
       172,
@@ -244,7 +244,7 @@
     "name": "Ibara Shiozaki",
     "classe": "Support",
     "style": "Original",
-    "image": "https://ultrarumble.com/assets/Character/Ch102/GUI/FaceIcon/T_ui_com_cahraface_Ch102.png",
+    "char_key": "Ch102",
     "color": [
       137,
       152,
@@ -258,7 +258,7 @@
     "name": "Tenya Iida",
     "classe": "Rapid",
     "style": "Original",
-    "image": "https://ultrarumble.com/assets/Character/Ch005/GUI/FaceIcon/T_ui_com_cahraface_Ch005.png",
+    "char_key": "Ch005",
     "color": [
       140,
       129,
@@ -272,7 +272,7 @@
     "name": "Shota Izawa",
     "classe": "Technical",
     "style": "Original",
-    "image": "https://ultrarumble.com/assets/Character/Ch013/GUI/FaceIcon/T_ui_com_cahraface_Ch013.png",
+    "char_key": "Ch013",
     "color": [
       78,
       72,
@@ -286,7 +286,7 @@
     "name": "Denki Kaminari",
     "classe": "Strike",
     "style": "Original",
-    "image": "https://ultrarumble.com/assets/Character/Ch007/GUI/FaceIcon/T_ui_com_cahraface_Ch007.png",
+    "char_key": "Ch007",
     "color": [
       220,
       70,
@@ -300,7 +300,7 @@
     "name": "Denki Kaminari",
     "classe": "Technical",
     "style": "Lightning",
-    "image": "https://ultrarumble.com/assets/Character/Ch007/GUI/FaceIcon/T_ui_com_cahraface_Ch007.png",
+    "char_key": "Ch007",
     "color": [
       150,
       70,
@@ -314,7 +314,7 @@
     "name": "Itsuka Kendo",
     "classe": "Assault",
     "style": "Original",
-    "image": "https://ultrarumble.com/assets/Character/Ch046/GUI/FaceIcon/T_ui_com_cahraface_Ch046.png",
+    "char_key": "Ch046",
     "color": [
       189,
       134,
@@ -328,7 +328,7 @@
     "name": "Itsuka Kendo",
     "classe": "Strike",
     "style": "Twin Palm Strike",
-    "image": "https://ultrarumble.com/assets/Character/Ch046/GUI/FaceIcon/T_ui_com_cahraface_Ch046.png",
+    "char_key": "Ch046",
     "color": [
       189,
       134,
@@ -342,7 +342,7 @@
     "name": "Eijiro Kirishima",
     "classe": "Assault",
     "style": "Original",
-    "image": "https://ultrarumble.com/assets/Character/Ch008/GUI/FaceIcon/T_ui_com_cahraface_Ch008.png",
+    "char_key": "Ch008",
     "color": [
       186,
       131,
@@ -356,7 +356,7 @@
     "name": "Eijiro Kirishima",
     "classe": "Strike",
     "style": "Red Drive",
-    "image": "https://ultrarumble.com/assets/Character/Ch008/GUI/FaceIcon/T_ui_com_cahraface_Ch008.png",
+    "char_key": "Ch008",
     "color": [
       186,
       131,
@@ -370,7 +370,7 @@
     "name": "Kurogiri",
     "classe": "Support",
     "style": "Original",
-    "image": "https://ultrarumble.com/assets/Character/Ch103/GUI/FaceIcon/T_ui_com_cahraface_Ch103.png",
+    "char_key": "Ch103",
     "color": [
       74,
       70,
@@ -384,7 +384,7 @@
     "name": "Present Mic",
     "classe": "Strike",
     "style": "Original",
-    "image": "https://ultrarumble.com/assets/Character/Ch109/GUI/FaceIcon/T_ui_com_cahraface_Ch109.png",
+    "char_key": "Ch109",
     "color": [
       184,
       158,
@@ -398,7 +398,7 @@
     "name": "Mirio Togata",
     "classe": "Rapid",
     "style": "Original",
-    "image": "https://ultrarumble.com/assets/Character/Ch024/GUI/FaceIcon/T_ui_com_cahraface_Ch024.png",
+    "char_key": "Ch024",
     "color": [
       210,
       175,
@@ -412,7 +412,7 @@
     "name": "Mirio Togata",
     "classe": "Technical",
     "style": "Sheer Counter",
-    "image": "https://ultrarumble.com/assets/Character/Ch024/GUI/FaceIcon/T_ui_com_cahraface_Ch024.png",
+    "char_key": "Ch024",
     "color": [
       210,
       175,
@@ -426,7 +426,7 @@
     "name": "Momo Yaoyorozu",
     "classe": "Support",
     "style": "Original",
-    "image": "https://ultrarumble.com/assets/Character/Ch010/GUI/FaceIcon/T_ui_com_cahraface_Ch010.png",
+    "char_key": "Ch010",
     "color": [
       156,
       144,
@@ -440,7 +440,7 @@
     "name": "Neito Monoma",
     "classe": "Technical",
     "style": "Original",
-    "image": "https://ultrarumble.com/assets/Character/Ch104/GUI/FaceIcon/T_ui_com_cahraface_Ch104.png",
+    "char_key": "Ch104",
     "color": [
       200,
       178,
@@ -454,7 +454,7 @@
     "name": "Mt. Lady",
     "classe": "Assault",
     "style": "Original",
-    "image": "https://ultrarumble.com/assets/Character/Ch100/GUI/FaceIcon/T_ui_com_cahraface_Ch100.png",
+    "char_key": "Ch100",
     "color": [
       189,
       175,
@@ -468,7 +468,7 @@
     "name": "Lady Nagant",
     "classe": "Strike",
     "style": "Original",
-    "image": "https://ultrarumble.com/assets/Character/Ch115/GUI/FaceIcon/T_ui_com_cahraface_Ch115.png",
+    "char_key": "Ch115",
     "color": [
       158,
       131,
@@ -482,7 +482,7 @@
     "name": "Nejire Hado",
     "classe": "Support",
     "style": "Fairy",
-    "image": "https://ultrarumble.com/assets/Character/Ch025/GUI/FaceIcon/T_ui_com_cahraface_Ch025.png",
+    "char_key": "Ch025",
     "color": [
       176,
       166,
@@ -496,7 +496,7 @@
     "name": "Nejire Hado",
     "classe": "Technical",
     "style": "Original",
-    "image": "https://ultrarumble.com/assets/Character/Ch025/GUI/FaceIcon/T_ui_com_cahraface_Ch025.png",
+    "char_key": "Ch025",
     "color": [
       176,
       166,
@@ -510,7 +510,7 @@
     "name": "Overhaul",
     "classe": "Assault",
     "style": "Blighted Precipice",
-    "image": "https://ultrarumble.com/assets/Character/Ch034/GUI/FaceIcon/T_ui_com_cahraface_Ch034.png",
+    "char_key": "Ch034",
     "color": [
       135,
       110,
@@ -524,7 +524,7 @@
     "name": "Overhaul",
     "classe": "Support",
     "style": "Original",
-    "image": "https://ultrarumble.com/assets/Character/Ch034/GUI/FaceIcon/T_ui_com_cahraface_Ch034.png",
+    "char_key": "Ch034",
     "color": [
       135,
       110,
@@ -538,7 +538,7 @@
     "name": "Tomura Shigaraki",
     "classe": "Assault",
     "style": "Catastrophe",
-    "image": "https://ultrarumble.com/assets/Character/Ch015/GUI/FaceIcon/T_ui_com_cahraface_Ch015.png",
+    "char_key": "Ch015",
     "color": [
       157,
       170,
@@ -552,7 +552,7 @@
     "name": "Tomura Shigaraki",
     "classe": "Strike",
     "style": "Original",
-    "image": "https://ultrarumble.com/assets/Character/Ch015/GUI/FaceIcon/T_ui_com_cahraface_Ch015.png",
+    "char_key": "Ch015",
     "color": [
       220,
       70,
@@ -566,7 +566,7 @@
     "name": "Tomura Shigaraki",
     "classe": "Technical",
     "style": "Thousand-Hand Break",
-    "image": "https://ultrarumble.com/assets/Character/Ch015/GUI/FaceIcon/T_ui_com_cahraface_Ch015.png",
+    "char_key": "Ch015",
     "color": [
       150,
       70,
@@ -580,7 +580,7 @@
     "name": "Hitoshi Shinso",
     "classe": "Strike",
     "style": "Original",
-    "image": "https://ultrarumble.com/assets/Character/Ch105/GUI/FaceIcon/T_ui_com_cahraface_Ch105.png",
+    "char_key": "Ch105",
     "color": [
       162,
       148,
@@ -594,7 +594,7 @@
     "name": "Shoto Todoroki",
     "classe": "Strike",
     "style": "Original",
-    "image": "https://ultrarumble.com/assets/Character/Ch004/GUI/FaceIcon/T_ui_com_cahraface_Ch004.png",
+    "char_key": "Ch004",
     "color": [
       220,
       70,
@@ -608,7 +608,7 @@
     "name": "Shoto Todoroki",
     "classe": "Technical",
     "style": "Ice Fang Wind Flame",
-    "image": "https://ultrarumble.com/assets/Character/Ch004/GUI/FaceIcon/T_ui_com_cahraface_Ch004.png",
+    "char_key": "Ch004",
     "color": [
       150,
       70,
@@ -622,7 +622,7 @@
     "name": "Tamaki Amajiki",
     "classe": "Strike",
     "style": "Original",
-    "image": "https://ultrarumble.com/assets/Character/Ch026/GUI/FaceIcon/T_ui_com_cahraface_Ch026.png",
+    "char_key": "Ch026",
     "color": [
       110,
       102,
@@ -636,7 +636,7 @@
     "name": "Himiko Toga",
     "classe": "Rapid",
     "style": "Sting Dance",
-    "image": "https://ultrarumble.com/assets/Character/Ch018/GUI/FaceIcon/T_ui_com_cahraface_Ch018.png",
+    "char_key": "Ch018",
     "color": [
       197,
       181,
@@ -650,7 +650,7 @@
     "name": "Himiko Toga",
     "classe": "Technical",
     "style": "Original",
-    "image": "https://ultrarumble.com/assets/Character/Ch018/GUI/FaceIcon/T_ui_com_cahraface_Ch018.png",
+    "char_key": "Ch018",
     "color": [
       197,
       181,
@@ -664,7 +664,7 @@
     "name": "Fumikage Tokoyami",
     "classe": "Assault",
     "style": "Original",
-    "image": "https://ultrarumble.com/assets/Character/Ch011/GUI/FaceIcon/T_ui_com_cahraface_Ch011.png",
+    "char_key": "Ch011",
     "color": [
       56,
       49,
@@ -678,7 +678,7 @@
     "name": "Tsuyu Asui",
     "classe": "Rapid",
     "style": "Original",
-    "image": "https://ultrarumble.com/assets/Character/Ch006/GUI/FaceIcon/T_ui_com_cahraface_Ch006.png",
+    "char_key": "Ch006",
     "color": [
       107,
       105,
@@ -692,7 +692,7 @@
     "name": "Twice",
     "classe": "Rapid",
     "style": "Original",
-    "image": "https://ultrarumble.com/assets/Character/Ch037/GUI/FaceIcon/T_ui_com_cahraface_Ch037.png",
+    "char_key": "Ch037",
     "color": [
       102,
       105,
@@ -706,7 +706,7 @@
     "name": "Ochaco Uraraka",
     "classe": "Assault",
     "style": "Zero Satellites",
-    "image": "https://ultrarumble.com/assets/Character/Ch003/GUI/FaceIcon/T_ui_com_cahraface_Ch003.png",
+    "char_key": "Ch003",
     "color": [
       177,
       146,
@@ -720,7 +720,7 @@
     "name": "Ochaco Uraraka",
     "classe": "Rapid",
     "style": "Original",
-    "image": "https://ultrarumble.com/assets/Character/Ch003/GUI/FaceIcon/T_ui_com_cahraface_Ch003.png",
+    "char_key": "Ch003",
     "color": [
       177,
       146,
@@ -734,7 +734,7 @@
     "name": "All For One Young Age",
     "classe": "Assault",
     "style": "Original",
-    "image": "https://ultrarumble.com/assets/Character/Ch201/GUI/FaceIcon/T_ui_com_cahraface_Ch201.png",
+    "char_key": "Ch201",
     "color": [
       180,
       165,
