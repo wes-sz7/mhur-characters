@@ -1,5 +1,5 @@
 {
-  "img_url": "https://ultrarumble.com/assets/Character/{{char_key}}/GUI/FaceIcon/T_ui_com_cahraface_{{char_key}}.png",
+  "img_url":"https://mhur-launcher.s3.us-east-1.amazonaws.com/chars/T_ui_com_cahraface_{{char_key}}.png",
   "characters": [
     { "key": "deku_assault", "name": "Izuku Midoriya", "style": "Original", "char_key": "Ch001", "role": "hero" },
     { "key": "deku_strike", "name": "Izuku Midoriya", "style": "Full Bullet", "char_key": "Ch001", "role": "hero" },
